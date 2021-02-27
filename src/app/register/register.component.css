@@ -1,0 +1,21 @@
+.h2{
+    text-align: center;
+    color: black;
+}
+.container
+{
+    
+    height: 100%;
+    background-position: center;
+    background-color: lightblue;
+    color: black;
+    
+}
+
+.button
+{
+    margin-left: 1.5%;
+    margin-bottom: 2%;
+}
+
+
